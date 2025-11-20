@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OverloadingFunctions_practical/OverloadingFunctions_practical.vcxproj" Id="f087c64f-9801-49c2-a227-2f65031bb2c5" />
+</Solution>
