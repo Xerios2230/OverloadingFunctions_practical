@@ -83,7 +83,7 @@ int main()
 	return 0;
 }
 
-// Ôóíêö³¿
+
 
 void sortArray(int arr[], int size, bool desc)
 {
